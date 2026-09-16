@@ -2,7 +2,7 @@
 
 Hello! Welcome to my personal GitHub repository. This repository contains the source code for my professional Curriculum Vitae (CV) in English, tailored specifically for a **Frontend Web Developer** role.
 
-🌐 **[View My Live CV Here](https://[your-github-username].github.io/[your-repo-name]/)** *(Replace with your actual GitHub Pages link)*
+🌐 **[View My Live CV Here](https://dayz-777.github.io/Single-Page-CV/)**
 
 ---
 
@@ -38,3 +38,4 @@ Detail-oriented professional with extensive experience in banking operations sin
 * **Email:** y.supriadi@outlook.com
 * **Phone:** +62 856-2304-565
 * **LinkedIn:** [linkedin.com/in/yadi-supriadi](https://linkedin.com/in/yadi-supriadi)
+* **GitHub:** [github.com/dayz-777](https://github.com/dayz-777/)
