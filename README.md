@@ -1,19 +1,40 @@
-# Single-Page HTML CV - Yadi Supriadi
+# 👨‍💻 Yadi Supriadi - Frontend Web Developer
 
-This project is a professional Single-Page CV built using HTML5 and CSS3, tailored for a Senior Staff in Retail FOP Custody with a strong background in banking operations and self-taught technical skills in Python, Data Analytics, and IT Infrastructure.
+Hello! Welcome to my personal GitHub repository. This repository contains the source code for my professional Curriculum Vitae (CV) in English, tailored specifically for a **Frontend Web Developer** role.
 
-## Features
-- **Responsive Layout:** Automatically adjusts from a two-column desktop view to a clean single-column mobile view.
-- **Modern Sidebar Design:** Highlights personal details, contact links, hard/soft skills, and a scrollable certifications list.
-- **Structured Experience & Education:** Clear professional timeline reflecting extensive experience in banking operations since 2012.
+🌐 **[View My Live CV Here](https://[your-github-username].github.io/[your-repo-name]/)** *(Replace with your actual GitHub Pages link)*
 
-## Built With
-- Semantic HTML5
-- CSS3 (Grid, Flexbox, Media Queries)
+---
 
-## How to Run
-1. Clone this repository or download the ZIP file.
-2. Open `index.html` in any modern web browser.
+## 🚀 About Me
+Detail-oriented professional with extensive experience in banking operations since 2012, successfully transitioning into tech development. Certified in Front-End Web Programming, JavaScript, HTML & CSS, with solid technical foundations in version control (Git), responsive web design, problem-solving, and building user-centric web interfaces.
 
-## Live Demo
-[Insert your GitHub Pages URL here]
+---
+
+## 🛠️ Skills & Technologies
+
+### Frontend Development
+* **Languages & Markup:** HTML5, CSS3, JavaScript (ES6+)
+* **Concepts:** Responsive Web Design, DOM Manipulation, Clean Code Practices
+* **Tools & Version Control:** Git, GitHub, VS Code
+
+### Additional Technical Skills
+* **Data & Automation:** Python, SQL, Data Analytics
+* **Infrastructure:** Networking Basics, IT Hardware & Software Installation (CISCO Certified)
+
+---
+
+## 📜 Certifications & Relevant Training
+* **Front-End Web Programming** – Dicoding Indonesia
+* **JavaScript Programming** – Dicoding Indonesia
+* **HTML & CSS Web Programming** – Dicoding Indonesia
+* **Responsive Web Design** – freeCodeCamp
+* **Networking Devices & Initial Configuration** – CISCO
+* **Data Analytics** – RevoU
+
+---
+
+## 📫 Contact Me
+* **Email:** y.supriadi@outlook.com
+* **Phone:** +62 856-2304-565
+* **LinkedIn:** [linkedin.com/in/yadi-supriadi](https://linkedin.com/in/yadi-supriadi)
