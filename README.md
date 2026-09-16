@@ -37,5 +37,5 @@ Detail-oriented professional with extensive experience in banking operations sin
 ## 📫 Contact Me
 * **Email:** y.supriadi@outlook.com
 * **Phone:** +62 856-2304-565
-* **LinkedIn:** [linkedin.com/in/yadi-supriadi](https://linkedin.com/in/yadi-supriadi)
+* **LinkedIn:** [linkedin.com/in/dayz777](https://linkedin.com/in/dayz777)
 * **GitHub:** [github.com/dayz-777](https://github.com/dayz-777/)
